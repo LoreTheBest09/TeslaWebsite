@@ -6,6 +6,11 @@ h3{
     font-size: 38px;
 
     
+}h4{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+
+    
 }
 .navbar-brand{
 
@@ -18,5 +23,9 @@ h3{
     font-size: 24px;
     font-weight: bold;
 
+}
+img{
+    font-weight: 100;
+    
 }
 
